@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="A30DF4B4-4865-461B-8746-F3CEA11AA4B3" version="0">
+	<info>
+		<title>PTS MTK Grade 7T Semester 2 2526</title>
+		<description/>
+	</info>
+	<files index="id58" thumbnail="id54" totalSize="4773319">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/fonts/fnt7.woff</file>
+		<file id="id11">data/html5-unsupported.html</file>
+		<file id="id12">data/images/img-00ba9008510b385b2ea7c3dfb6887a9c1bd73757.jpg</file>
+		<file id="id13">data/images/img-14272bfa6d3051d0bdb8726a995abcc5b275d6bd.jpg</file>
+		<file id="id14">data/images/img-14f0b1c21f4fb16e44a04108403ae8ae574244a8.png</file>
+		<file id="id15">data/images/img-177a0855b30a08e0b503d3426f47c7cde691b4a1.jpg</file>
+		<file id="id16">data/images/img-1b8b71b9aea2ca16a26fdd3e20ca9efc31404346.png</file>
+		<file id="id17">data/images/img-1f6c9e385b96661ab4d24c0b9e24497368df9e9e.jpg</file>
+		<file id="id18">data/images/img-265e651c0dfbacc0a77cbf908612840a4130aa53.png</file>
+		<file id="id19">data/images/img-280668bdcb4dcf7a49e5fb12174b6977a156f1c8.png</file>
+		<file id="id20">data/images/img-2ffd781cbd5dd67df9c6a5e25c498e105c832330.jpg</file>
+		<file id="id21">data/images/img-391757c787d0609111cbd8e52496b1c3aadcd634.png</file>
+		<file id="id22">data/images/img-3a5625af78c17f04525a2942ae80c14f22be73ad.jpg</file>
+		<file id="id23">data/images/img-3e4b245ce88b02ad1bd52a9f6250d2214958caaf.jpg</file>
+		<file id="id24">data/images/img-4639a58b1abdee74a375e1cf1be2013db51c1e8f.png</file>
+		<file id="id25">data/images/img-5728f5d1ba906ec67735db607f6980d1fe7b8259.png</file>
+		<file id="id26">data/images/img-5f823f015a6d260ce503e3b33a103ad89d375e30.jpg</file>
+		<file id="id27">data/images/img-5ffdb8e57ff7e98c4c1ac7901083e48da7167c63.png</file>
+		<file id="id28">data/images/img-6a3ad980854752b86c012c9abb311421fdbb3745.jpg</file>
+		<file id="id29">data/images/img-6b5c0cced0fc080be51e4ed6947bbed9aa11b04a.png</file>
+		<file id="id30">data/images/img-71bba110ec1058c9ce443964b708d556c18db522.png</file>
+		<file id="id31">data/images/img-827ddf9116d970dbf1aee05c2747148ab1df0060.png</file>
+		<file id="id32">data/images/img-909efd61a5c1b32679bc4a12594af9eb6d3e7c4e.jpg</file>
+		<file id="id33">data/images/img-984d36ac68b23d227d5f829196d88bb00f7da099.png</file>
+		<file id="id34">data/images/img-996f1cec7eb9fc19772addd10c61d5d365447fa1.png</file>
+		<file id="id35">data/images/img-9e1f60ad9a284a1e3b7fb3d77c1bbef6ff7fb49d.jpg</file>
+		<file id="id36">data/images/img-a4ed2c29891758d0249b1a314d409037037ca2c8.png</file>
+		<file id="id37">data/images/img-a8659ad5e9b98919c144f3c733b6bb447c258e79.jpg</file>
+		<file id="id38">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id39">data/images/img-b89e75dbd7a9fd946f3cb0b1c74249940ac5b125.jpg</file>
+		<file id="id40">data/images/img-bb40081b3911b0f2732d7158b110630c58d0d729.png</file>
+		<file id="id41">data/images/img-c01c069f8a56f1694192e83d7d25dcf34b075a5f.png</file>
+		<file id="id42">data/images/img-c4138345838a23e7e46bac8e77d40de109ae046e.png</file>
+		<file id="id43">data/images/img-cbfe7c26507f9426e99249bb185418f68e76e79d.png</file>
+		<file id="id44">data/images/img-d86597d8167163c13fddb965acab72ca7086658a.jpg</file>
+		<file id="id45">data/images/img-e4325d2c6ee12fd9a98a01e7b6b288e748f2fc1a.png</file>
+		<file id="id46">data/images/img-eba1a6b5f0005b8216c37c5712ecc8d350911f75.jpg</file>
+		<file id="id47">data/images/img-f052431ead04aa6b1be6d46a55b930ed8ca959b1.jpg</file>
+		<file id="id48">data/images/img-f16098882ebb51f6668b713364cf9475201513cb.png</file>
+		<file id="id49">data/images/img-f2715cd972d45974e710798414a7f225aa5b5ae7.jpg</file>
+		<file id="id50">data/images/img-fb405a0ca96c35b16eef93409f9078f98e4bfebb.jpg</file>
+		<file id="id51">data/images/img-fe9fc5f038a387246fd1e807c762642ff8c2ecca.png</file>
+		<file id="id52">data/ismplayer/app_store2x.png</file>
+		<file id="id53">data/ismplayer/play.svg</file>
+		<file id="id54">data/ismplayer/preview.png</file>
+		<file id="id55">data/ismplayer/style.css</file>
+		<file id="id56">data/ismplayer/style_mini.css</file>
+		<file id="id57">data/player.js</file>
+		<file id="id58">index.html</file>
+		<file id="id59">ismplayer.html</file>
+		<file id="id60">preview.png</file>
+	</files>
+</presentation>
+
